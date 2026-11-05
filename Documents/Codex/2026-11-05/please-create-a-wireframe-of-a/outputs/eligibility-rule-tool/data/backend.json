@@ -1,0 +1,4576 @@
+[
+  {
+    "id": "R001",
+    "values": [
+      [
+        "Extreme Good"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "600-750",
+        "Above 750",
+        "Below 600",
+        "NA"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Accept",
+      "Accept V5",
+      "All",
+      "All",
+      "No",
+      "All",
+      "Yes",
+      "1Cr, UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R002",
+    "values": [
+      [
+        "Extreme Good"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "600-750",
+        "Above 750",
+        "Below 600",
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Accept",
+      "Accept V5",
+      "All",
+      "All",
+      "No",
+      "All",
+      "Yes",
+      "1Cr, UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R003",
+    "values": [
+      [
+        "Extreme Good"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "600-750",
+        "Above 750",
+        "Below 600",
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Accept",
+      "Accept V5",
+      "All",
+      "All",
+      "No",
+      "All",
+      "Yes",
+      "1Cr, UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R004",
+    "values": [
+      [
+        "Extreme Good"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "600-750",
+        "Above 750",
+        "Below 600",
+        "NA"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Accept",
+      "Accept V5",
+      "All",
+      "All",
+      "No",
+      "All",
+      "Yes",
+      "1Cr, UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R005",
+    "values": [
+      [
+        "Extreme Good"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "600-750",
+        "Below 600"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Accept",
+      "Accept V5",
+      "All",
+      "All",
+      "No",
+      "All",
+      "Yes",
+      "1Cr, UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R006",
+    "values": [
+      [
+        "Extreme Good"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Accept",
+      "Accept V5",
+      "All",
+      "All",
+      "No",
+      "All",
+      "Yes",
+      "1Cr, UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R007",
+    "values": [
+      [
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "1A",
+        "2A"
+      ],
+      [
+        "600-750",
+        "Below 600"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R008",
+    "values": [
+      [
+        "Completely Blocked",
+        "Extreme Good",
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "1A",
+        "2A"
+      ],
+      [
+        "600-750",
+        "Above 750",
+        "Below 600",
+        "NA"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R009",
+    "values": [
+      [
+        "Other Pincodes",
+        "Top 6 Cities"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V1",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "No",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R010",
+    "values": [
+      [
+        "Other Pincodes",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V4",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "Yes, at Home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R011",
+    "values": [
+      [
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V3",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "NA",
+      "Annual, Monthly",
+      "Yes",
+      "25L,50L,1Cr",
+      "NA",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R012",
+    "values": [
+      [
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V3",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R013",
+    "values": [
+      [
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V3",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R014",
+    "values": [
+      [
+        "Other Pincodes",
+        "Top 6 Cities"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A",
+        "2A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V1",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "No",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R015",
+    "values": [
+      [
+        "Other Pincodes",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R016",
+    "values": [
+      [
+        "Other Pincodes",
+        "Top 6 Cities"
+      ],
+      [
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R017",
+    "values": [
+      [
+        "Other Pincodes",
+        "Top 6 Cities"
+      ],
+      [
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R018",
+    "values": [
+      [
+        "Other Pincodes",
+        "Top 6 Cities"
+      ],
+      [
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R019",
+    "values": [
+      [
+        "Other Pincodes",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R020",
+    "values": [
+      [
+        "Extreme Good",
+        "Other Pincodes",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "Above 750"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Accept",
+      "Accept",
+      "All",
+      "All",
+      "NA",
+      "All",
+      "Yes",
+      "1Cr, UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "NA",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "NA",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R021",
+    "values": [
+      [
+        "Extreme Good",
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "Above 750"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Accept",
+      "Accept",
+      "All",
+      "All",
+      "NA",
+      "All",
+      "Yes",
+      "1Cr, UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R022",
+    "values": [
+      [
+        "Extreme Good",
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Accept",
+      "Accept",
+      "All",
+      "All",
+      "NA",
+      "All",
+      "Yes",
+      "1Cr, UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R023",
+    "values": [
+      [
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V2",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "Yes, at Home",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "25L,50L,1Cr",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R024",
+    "values": [
+      [
+        "Top 6 Cities"
+      ],
+      [
+        "ROI"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V1",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "NA",
+      "Annual, Monthly",
+      "Yes",
+      "25L,50L,1Cr",
+      "NA",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R025",
+    "values": [
+      [
+        "Other Pincodes",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V1",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "No",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R026",
+    "values": [
+      [
+        "Other Pincodes",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V1",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "No",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R027",
+    "values": [
+      [
+        "Other Pincodes"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V2",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "Yes, at Home",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "25L,50L,1Cr",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R028",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R029",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R030",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R031",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "Above 750"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V1",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "No",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R032",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "Above 750"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Accept",
+      "Accept",
+      "All",
+      "All",
+      "NA",
+      "All",
+      "Yes",
+      "1Cr, UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "NA",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "NA",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R033",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V1",
+      "Standard / Platinum Lite /Top-up",
+      "25L & Onwards",
+      "No",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R034",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R035",
+    "values": [
+      [
+        "Completely Blocked"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "1A",
+        "2A"
+      ],
+      [
+        "600-750",
+        "Above 750",
+        "Below 600",
+        "NA"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R036",
+    "values": [
+      [
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "600-750",
+        "Below 600"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R037",
+    "values": [
+      [
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "600-750",
+        "Below 600",
+        "NA"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R038",
+    "values": [
+      [
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "600-750",
+        "Below 600"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R039",
+    "values": [
+      [
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "600-750",
+        "Below 600"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R040",
+    "values": [
+      [
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "600-750",
+        "Below 600"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R041",
+    "values": [
+      [
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "600-750",
+        "Below 600"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R042",
+    "values": [
+      [
+        "Other Pincodes",
+        "Partially Blocked",
+        "Top 6 Cities"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "600-750",
+        "Below 600"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R043",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R044",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R045",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R046",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R047",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "Yes",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R048",
+    "values": [
+      [
+        "Partially Blocked"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900"
+      ]
+    ],
+    "output": [
+      "Limited Accept",
+      "Limited Accept - Payu",
+      "Standard / Platinum Lite /Top-up/Port - Platinum/Platinum Essential",
+      "25L & Onwards",
+      "Yes, at home",
+      "Annual",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "25L,50L,1Cr",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "Yes"
+    ]
+  },
+  {
+    "id": "R049",
+    "values": [
+      [
+        "Limited V5",
+        "Limited V6"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "1A",
+        "2A"
+      ],
+      [
+        "600-750",
+        "Below 600"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA",
+        "Y"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No"
+    ]
+  },
+  {
+    "id": "R050",
+    "values": [
+      [
+        "Limited V5"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "1A",
+        "2A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V5",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "NA",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "NA",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R051",
+    "values": [
+      [
+        "Limited V5"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V5",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R052",
+    "values": [
+      [
+        "Limited V5"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V5",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R053",
+    "values": [
+      [
+        "Limited V5"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V5",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R054",
+    "values": [
+      [
+        "Limited V5"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V5",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R055",
+    "values": [
+      [
+        "Limited V5"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V5",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R056",
+    "values": [
+      [
+        "Limited V5",
+        "Limited V6"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "1A",
+        "2A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No"
+    ]
+  },
+  {
+    "id": "R057",
+    "values": [
+      [
+        "Limited V5"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V5",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R058",
+    "values": [
+      [
+        "Limited V6"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "1A",
+        "2A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Reject",
+      "Reject",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "No"
+    ]
+  },
+  {
+    "id": "R059",
+    "values": [
+      [
+        "Limited V6"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "1A",
+        "2A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V6",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "NA",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "NA",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R060",
+    "values": [
+      [
+        "Limited V6"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V6",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R061",
+    "values": [
+      [
+        "Limited V6"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V6",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R062",
+    "values": [
+      [
+        "Limited V6"
+      ],
+      [
+        "South"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V6",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R063",
+    "values": [
+      [
+        "Limited V6"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI"
+      ],
+      [
+        "1A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V6",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "Yes",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R064",
+    "values": [
+      [
+        "Limited V6"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "N"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V6",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  },
+  {
+    "id": "R065",
+    "values": [
+      [
+        "Limited V6"
+      ],
+      [
+        "Delhi & Mumbai",
+        "ROI",
+        "South"
+      ],
+      [
+        "2A"
+      ],
+      [
+        "Above 750",
+        "NA"
+      ],
+      [
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "Y"
+      ],
+      [
+        "N",
+        "NA"
+      ],
+      [
+        "N or Y"
+      ],
+      [
+        "800 - 900",
+        "Below 800",
+        "NA"
+      ]
+    ],
+    "output": [
+      "Limited accept",
+      "Limited Eligibility V6",
+      "Non Port Business: Platinum Lite/Top-up/Platinum Essential\nPort Business: Platinum",
+      "All",
+      "NA",
+      "All",
+      "No",
+      "NA",
+      "NA",
+      "NA",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "No",
+      "Annual, Monthly",
+      "Yes",
+      "10L,25L,50L,1Cr,UL",
+      "Yes",
+      "Annual",
+      "No"
+    ]
+  }
+]
